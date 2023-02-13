@@ -9,8 +9,3 @@
 *.iml
 *.ipr
 *.iws
-
-### Eclipse
-.settings/
-.classpath
-.project
